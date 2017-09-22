@@ -1,0 +1,22 @@
+{
+    "document": {
+        "data": {},
+        "kind": "document",
+        "nodes": [
+            {
+                "kind": "block",
+                "isVoid": false,
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "ranges": [{
+                            "text": "A line of text in a paragraph."
+                        }]
+                    }
+                ]
+            }
+        ]
+    },
+    "kind": "state"
+}
